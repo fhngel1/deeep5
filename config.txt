@@ -1,6 +1,6 @@
-token=NTIzMjU2MzM1OTIwMjY3Mjc3.DvW7Iw.KRm6SmR6nJ9rqXHUwPVUZ5u33uk
-owner=521341978659651596
-prefix= 3
+token=NTM5ODM1NjcwMTUyMzQ3Njg1.DzIJHA.PZzaw7a0jSYFmkwiNOvGCF-WH-k
+owner=454347017242542082
+prefix= s
 game=
 stayinchannel=true
 songinstatus=false
